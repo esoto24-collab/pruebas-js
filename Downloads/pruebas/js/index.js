@@ -1,5 +1,5 @@
 
-/*function calcularIMC(peso, altura) {
+function calcularIMC(peso, altura) {
     return peso/altura**2;
 };
 
@@ -36,7 +36,9 @@ while (altura <= 0) {
     }
 }
 
-clasificarIMC(calcularIMC(peso, altura));*/
+clasificarIMC(calcularIMC(peso, altura));\
+
+//-------------------------------------------------------------------
 
 function fizzBuzz(n) {
     for (let i = 1; i <= n; i++) {
