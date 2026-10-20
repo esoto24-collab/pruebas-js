@@ -36,7 +36,7 @@ while (altura <= 0) {
     }
 }
 
-clasificarIMC(calcularIMC(peso, altura));\
+clasificarIMC(calcularIMC(peso, altura));
 
 //-------------------------------------------------------------------
 
